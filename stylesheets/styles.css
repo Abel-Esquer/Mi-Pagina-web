@@ -6,8 +6,8 @@ body {
 
 /* 2do commit - Cambiar el color de los textos y botones de las redes sociales */
 ul li a p {
-  color          : #FFFFFF;
-  background     : #E94016;
+  color          : #277c1f;
+  background     : #277c1f;
   width          : 75%;
   list-style-type: none;
   padding        : .3em 1em .3em;
@@ -17,7 +17,7 @@ ul li a p {
 
 /* 3er commit - Cambiar el color de la barra lateral */
 header.sidebar {
-  background-color: #EEEEEE;
+  background-color: #1b6118;
   width           : 30%;
   background-size : cover;
   display         : inline-block;
